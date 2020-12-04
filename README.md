@@ -1,6 +1,6 @@
 
 # OIG, OFAC, SAM Report PDF Generator
- [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![selenium ](https://img.icons8.com/color/48/000000/selenium-test-automation.png)](https://selenium-python.readthedocs.io/) 
+ [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  [![selenium ](https://img.icons8.com/color/48/000000/selenium-test-automation.png)](https://selenium-python.readthedocs.io/)<br> 
  <img src="https://i.imgur.com/466F7P8.png" alt="xlrd" height="100px" width="100px">
  ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
   ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
