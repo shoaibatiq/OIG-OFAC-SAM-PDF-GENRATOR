@@ -28,7 +28,7 @@ and genrates PDFs of the result.
 ### Installation
 1. Clone the repo
 ```sh
-git clone https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies.git
+https://github.com/shoaibatiq/OIG-OFAC-SAM-PDF-GENRATOR.git
 ```
 
 2. Install python packages
